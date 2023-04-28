@@ -1,4 +1,9 @@
-package ru.job4j.di;
+package ru.job4j;
+
+import ru.job4j.di.ConsoleInput;
+import ru.job4j.di.Context;
+import ru.job4j.di.StartUI;
+import ru.job4j.di.Store;
 
 public class Main {
 
